@@ -20,7 +20,7 @@ In which context (where, why, under which conditions) would the users do that ac
 What would the users usually do in order to complete that activity? 
 
 
-
+- extremes who are interested in gaining more insights on sustainablity goals and the environment, students/adults with access to the internet, social status 
 
 ### user activities,
 Step04: Plan the details
