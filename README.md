@@ -15,13 +15,13 @@ I believe the user interface(UI) of the UNEP website can overwhelm users, especi
 
 ### target users, 
 Step02: Target users (refer to the field guideline by IDEO, p.44-51)
-What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
 In which context (where, why, under which conditions) would the users do that activity? 
 What would the users usually do in order to complete that activity? 
 
 
 - extremes who are interested in gaining more insights on sustainablity goals and the environment, students/adults with access to the internet, social status 
-
+- users of any demographic
+- low to mediocre expertise
 ### user activities,
 Step04: Plan the details
 Brainstorm the right contexts and narrow down to decide where to visit physically and/or virtually (refer to the field guideline by IDEO, p.52-55)
