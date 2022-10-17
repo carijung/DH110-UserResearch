@@ -9,8 +9,7 @@ The UN Environmental Programme website is a highly resourceful envioronment-advo
 
 <p>&nbsp;</p>
 
-I believe the user interface(UI) of the UNEP website can overwhelm users, especially first time users, due to their extensive information. I believe redesigning the UI by restructuring the navigation bars and the flow can make the site more approachable and help users locate specific information more efficiently. 
-Also, I hope to improve the limitations in user control and freedom present in signing up for updates and no autofill suggestions in search bars.
+I believe the user interface(UI) of the UNEP website can overwhelm users, especially first time users, due to their extensive information. I believe redesigning the UI by restructuring the navigation bars and the flow can make the site more approachable and help users locate specific informations on sustainable communites more efficiently. Also, I hope to improve the limitations in user control and freedom present in signing up for updates and no autofill suggestions in search bars.
 
 <p>&nbsp;</p>
 
