@@ -13,31 +13,17 @@ I believe the user interface(UI) of the UNEP website can overwhelm users, especi
 
 <p>&nbsp;</p>
 
-### target users, 
-Step02: Target users (refer to the field guideline by IDEO, p.44-51)
-In which context (where, why, under which conditions) would the users do that activity? 
-What would the users usually do in order to complete that activity? 
 
+The target users for the user research will be extremes of any demographic who have access to internet and are interested in gaining more nsights on sustainablity goals and the environment. Users will acquire low to mediocre expertise on sustainability and have not previously used the website. Users will be asked to explore the website and locate specific information on Sustainable Cities and Communities. 
 
-- extremes who are interested in gaining more insights on sustainablity goals and the environment, students/adults with access to the internet, social status 
-- users of any demographic
-- low to mediocre expertise
+### research method
+The qualitative research method for this research will be covert observation + active interaction. 
+
 ### user activities,
-Step04: Plan the details
-Brainstorm the right contexts and narrow down to decide where to visit physically and/or virtually (refer to the field guideline by IDEO, p.52-55)
-Decide what activities to observe
-Decide how to interact with the users (ex. overt x participatory if it is contextual inquiry)
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the (interview + observation) guide (p.41)
 
-### research method(s)
-Step03: Pick an qualitative research method (or a combination/adaptation of methods) 
-by covert / overt observation
-by active / passive / participatory interaction * 
-Or something you learned on your own (refer to the field guideline by IDEO, p.39-42)
+This research will be conducted via Zoom. I will be observing how to user navigates the site, their behaviors, and facial expressions. After instructing them about their end goal, users will soley navigate the website on their own (guidance or translation will be provided if requested). The data will be collected via voice/video recording and pen-paper notes. 
 
-
-
+First, I will ask the user broad questions like their age, whether they have a passion to gain knowledge on sustainability, and their skill level in utilizing online platforms. Then, I will ask deeper questions like what makes them passionate and what they hope to gain from the website in hopes to gain an understanding of their ambition. 
 
 
 
