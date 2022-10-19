@@ -21,7 +21,7 @@ Please visit the links below to view the interview scripts utilized throughout t
 
 ## ✅ Step 5: Conduct the research
 * [Video]()
-* [Full Transcript]()
+* [Full Transcript](https://docs.google.com/document/d/1vmiCg7dy7JHpOE4oLegkg0uUolJn38562TeT2fSU9z4/edit?usp=sharing)
 
 ### Observation
 > There are several language options, but user's primary language (Korean) was missing. Users were confused and found it hard to navigate the site as it had too many resources as well. However, the animated videos helped them visualize the issue and they thought other users can benefit from the resourcefulness. 
