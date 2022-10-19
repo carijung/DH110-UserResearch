@@ -20,7 +20,7 @@ Please visit the links below to view the interview scripts utilized throughout t
 * [English script](https://docs.google.com/document/d/19CUponYspmtvoIIAoUUKGUYgCNmZrrS2ua28U__a1Ec/edit?usp=sharing)
 
 ## ✅ Step 5: Conduct the research
-* [Video]()
+* [Video](https://youtu.be/9niylK3N8Xs)
 * [Full Transcript](https://docs.google.com/document/d/1vmiCg7dy7JHpOE4oLegkg0uUolJn38562TeT2fSU9z4/edit?usp=sharing)
 
 ### Observation
