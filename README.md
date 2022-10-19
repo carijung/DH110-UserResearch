@@ -16,7 +16,9 @@ I believe the user interface(UI) of the UNEP website can overwhelm users, especi
 The qualitative research method for this research will be overt observation + participatory interaction. This research will be conducted via Zoom. As a moderator, I will be observing how to user navigates the site, their behaviors, and facial expressions. After instructing them about their end goal, users will soley navigate the website on their own (guidance or translation will be provided if requested). The data will be collected via voice/video recording and observations will be noted with an iPad. 
 
 ## ✅ Step 4: Plan the details
-Please visit this link to view the interview script utilized throughout the research.
+Please visit the links below to view the interview scripts utilized throughout the research.
+* [Korean script](https://docs.google.com/document/d/1Hf3zwf8LPbg09055oyVWPlFzr8ME8FryigSOj-6AcQ8/edit?usp=sharing)
+* [English script](https://docs.google.com/document/d/19CUponYspmtvoIIAoUUKGUYgCNmZrrS2ua28U__a1Ec/edit?usp=sharing)
 
 ## ✅ Step 5: Conduct the research
 video
