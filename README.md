@@ -13,7 +13,7 @@ I believe the user interface(UI) of the UNEP website can overwhelm users, especi
 * Expertise: users will acquire low to mediocre expertise on sustainability, technology, and have not previously used the website. 
 
 ## ✅ Step 3: Research Method
-The qualitative research method for this research will be overt observation + participatory interaction. This research will be conducted via Zoom. As a moderator, I will be observing how to user navigates the site, their behaviors, and facial expressions. After instructing them about their end goal, users will soley navigate the website on their own (guidance or translation will be provided if requested). The data will be collected via voice/video recording and observations will be noted with an iPad. 
+The qualitative research method for this research will be overt observation + participatory interaction. This research will be conducted via Zoom. As a moderator, I will be observing how to user navigates the site, their behaviors, and facial expressions. After instructing them about their end goal, users will soley navigate the website on their own (guidance or translation will be provided if requested). The data will be collected via voice/video recording and observations will be noted on Google Docs. 
 
 ## ✅ Step 4: Plan the details
 Please visit the links below to view the interview scripts utilized throughout the research.
