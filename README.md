@@ -24,8 +24,10 @@ video
 full transcript 
 
 ### Observation
-> There are several language options, but user's primary language (Korean) was missing. Users were confused and found it hard to navigate the site as it had too many resources as well. However, the animated videos helped them visualize the issue and they thought other users can benefit from the resourcefulness.  
+> There are several language options, but user's primary language (Korean) was missing. Users were confused and found it hard to navigate the site as it had too many resources as well. However, the animated videos helped them visualize the issue and they thought other users can benefit from the resourcefulness. 
+
 > Residing in an area where homelessness, littering, and bad air quality, the user wants to look for more resources to help ameliorate these pressing issues.
+
 > User achieved end goal of finding the sustainability goals by chance. While exploring the page, the user clicked on a random article which had a chart of sustainability goals underneath. (time stamp)
 
 
