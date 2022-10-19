@@ -18,10 +18,10 @@ The qualitative research method for this research will be overt observation + pa
 ## ✅ Step 4: Plan the details
 Please visit this link to view the interview script utilized throughout the research.
 
-### ✅ Step 5: Conduct the research
+## ✅ Step 5: Conduct the research
 video
 full transcript
 observation notes
 
-### ✅ Step 6: Reflection
+## ✅ Step 6: Reflection
 Due to sustainability being a universal goal, I wondered how extreme users who are not familiar with using technology but had access to it would interact with a website. Therefore, I decided to interview a user who met these standards and also required translation. This research was a valuable experience as I got to interview a generous user who was willing to contribute their time to this lengthy process and because I learned about the fundamentals of engaging with extreme users. Learning about their background helped me understand what features this digital product should potentially implement in order to remove limitations that may be preventing them from engaging with the resources. Although I had the translations for the interview questions prepared, I did find trouble translating jargons present in the website. As a mainstream user, this made me wonder about how much larger the obstacle must feel for many extreme users. The user struggled to navigate the website because they aren't fluent in English. However, I waited for them to ask me for guidance instead of reaching out to them first like how I have during the pilot usability testing. Overall, this resarch prompted me to want to interview more users to design a product that can be catered to a wider range of users. 
